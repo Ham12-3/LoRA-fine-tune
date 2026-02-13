@@ -1,0 +1,22 @@
+# Model checkpoints and adapters
+lora-flan-t5-summarization/
+lora-adapters/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+Thumbs.db
+.DS_Store
